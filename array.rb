@@ -1,6 +1,7 @@
 nome = ['Bráulio','Oliver','Edésio','Iranilda','Bruno','Kaline']
 puts nome
 
+#numeros.push('primeiro') inserir um elemento no array
 puts nome.first
 puts nome[1]
 puts nome.last
