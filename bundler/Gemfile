@@ -3,3 +3,5 @@
 
  gem 'os'
  gem 'http', '~> 5.3', '>= 5.3.1'
+ gem 'cpf_cnpj', '~> 1.0', '>= 1.0.1'
+ gem 'consulta_cpf', '~> 0.1.0'
